@@ -51,6 +51,7 @@ consider this code:
   - too many ternary operators are used
 
 * Refactoring Techniques: 
+
 Extract Method - break down the complicated nested method.
 Rename variable name "neighbor" to "neighborCount" to distinguish between neighbor "Cell" and "Count". 
 
@@ -124,6 +125,7 @@ from:
 
 
 * Refactoring:
+
 Substitute Algorithm - replace ternary operators to comparators in the loop.
 
 
