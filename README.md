@@ -4,7 +4,7 @@
 
 From Chanathip Thumkanon's Game of Life code: https://github.com/OOP2020/pa4-kaesrel.git
 
-### haveVowel() Method
+### generateNext() Method
 
 In the `src/LifeAlgo.java` class 
 
